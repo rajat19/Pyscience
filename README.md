@@ -6,6 +6,7 @@
 3. [seeds.txt](https://archive.ics.uci.edu/ml/machine-learning-databases/00236/seeds_dataset.txt)
 4. [students.data](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/c6c89d8ef70c9b6d0923d9c171fee75a/asset-v1:Microsoft+DAT210x+2T2017+type@asset+block/students.zip)
 5. [titanic](https://www.kaggle.com/c/titanic/data)
+6. [weather](https://www.kaggle.com/mahirkukreja/delhi-weather-data/data)
 
 ## Features
 #### 1. Histogram
