@@ -31,4 +31,5 @@
 The work is completed based on the knowledge provided through edx course [Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT210x+2T2017/course/)
 
 ## Also see
-### [Delhi Weather](https://gihub.com/rajat19/Pyscience/WEATHER.md)
+### 1. [Delhi Weather](https://gihub.com/rajat19/Pyscience/WEATHER.md)
+### 2. [Religion Map](https://gihub.com/rajat19/Pyscience/RELIGION.md)
