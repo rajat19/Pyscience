@@ -1,5 +1,5 @@
 # World Religion Map
 
-#### Plotly is used to design world map, See religions.py
+#### Plotly is used to design world globe, See religions.py
 
-![map](./images/worldreligionmap2010.html)
+![globe](http://htmlpreview.github.io/?https://github.com/rajat19/Pyscience/blob/master/images/worldreligionmap2010.html)
