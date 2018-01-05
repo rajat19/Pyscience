@@ -1,0 +1,361 @@
+- Introduction
+	- Background
+		- text
+- Geography
+	- Location
+		- text
+	- Geographic coordinates
+		- text
+	- Map references
+		- text
+	- Area
+		- total
+			- text
+		- land
+			- text
+		- water
+			- text
+	- Area - comparitive
+		- text
+	- Land boundaries
+		- total
+			- text
+		- border countries
+			- text
+	- Coastline
+		- text
+	- Maritime claims
+		- territorial sea
+			- text
+		- contiguous zone
+			- text
+		- exclusive economic zone
+			- text
+		- continental shelf
+			- text
+	- Climate
+		- text
+	- Terrain
+		- text
+	- Elevation
+		- mean elevation
+			- text
+		- elevation extremes
+			- text
+	- Natural resources
+		- text
+	- Land use
+		- agricultural land
+			- text
+		- forest
+			- text
+		- other
+			- text
+	- Irrigated land
+		- text
+	- Natural hazards
+		- text
+		- volcanism
+	- Environment - current issues
+		- text
+	- Environment - internation agreements
+		- party to
+			- text
+		- signed, but not ratified
+			- text
+	- Geography - note
+		- text
+- People and Society
+	- Population
+		- text
+	- Nationality
+		- noun
+			- text
+		- adjective
+			- text
+	- Ethnic groups
+		- text
+	- Languages
+		- text
+		- note
+			- text
+	- Religions
+		- text
+	- Age structure
+		- 0-14years
+			- text
+		- 15-24 years
+			- text
+		- 25-54 years
+			- text
+		- 65 years and over
+			- text
+	- Dependency ratios
+		- total dependency ratio
+			- text
+		- youth dependency ratio
+			- text
+		- elderly dependency ratio
+			- text
+		- potential support ratio
+			- text
+	- Median age
+		- total
+			- text
+		- male
+			- text
+		- female
+			- text
+	- Population growth rate
+		- text
+	- Birth rate
+		- text
+	- Death rate
+		- text
+	- Net migration rate
+		- text
+	- Urbanization
+		- urban population
+			- text
+		- rate of urbanization
+			- text
+	- Major urban areas - population
+		- text
+	- Sex ratio
+		- at birth
+			- text
+		- 0-14 years
+			- text
+		- 15-24 years
+			- text
+		- 25-54 years
+			- text
+		- 55-64 years
+			- text
+		- 65 years and over
+			- text
+		- total population
+	- Mother's mean age at first birth
+		- text
+		- note
+			- text
+	- Maternal mortality rate
+		- text
+	- Infant mortality rate
+		- total
+			- text
+		- male
+			- text
+		- female
+			- text
+	- Life expectancy at birth
+		- total population
+			- text
+		- male
+			- text
+		- female
+			- text
+	- Total fertility rate
+		- text
+	- Contraceptive prevalence rate
+		- text
+	- Health expenditures
+		- text
+	- Physicians density
+		- text
+	- Hospital bed density
+		- text
+	- Drinking water source
+		- improved
+			- text
+		- unimproved
+			- text
+	- Sanitation facility access
+		- improved
+			- text
+		- unimproved
+			- text
+	- HIV/AIDS - adult prevalence rate
+		- text
+	- HIV/AIDS - people living with HIV/AIDS
+		- text
+	- HIV/AIDS - deaths
+		- text
+	- Major infectious diseases
+		- degree of risk
+			- text
+		- food or waterborne diseases
+			- text
+		- vectorborne diseases
+			- text
+		- water contact disease
+			- text
+		- animal contact disease
+			- text
+	- Obesity - adult prevalence rate
+		- text
+	- Children under the age of 5 years underweight
+		- text
+	- Education expenditures
+		- text
+	- Literacy
+		- definition
+			- text
+		- total population
+			- text
+		- male
+			- text
+		- female
+			- text
+	- School life expectancy (primary to tertiary education)
+		- total
+			- text
+		- male
+			- text
+		- female
+			- text
+	- Child labor - children ages 5-14
+		- total number
+			- text
+		- percentage
+			- text
+	- Unemployment, youth ages 15-24
+		- total
+			- text
+		- male
+			- text
+		- female
+			- text
+- Government
+	- Country name
+		- conventional long form
+			- text
+		- conventional short form
+			- text
+		- local long form
+			- text
+		- local short form
+			- text
+		- etymology
+			- text
+	- Government type
+		- text
+	- Capital
+		- name
+			- text
+		- geographic coordinates
+			- text
+		- time difference
+			- text
+	- Administrative divisions
+		- text
+		- note
+			- text
+	- Independence
+		- text
+	- National holiday
+		- text
+	- Constitution
+		- text
+	- Legal system
+		- text
+	- Internation law organization participation
+		- text
+	- Citizenship
+		- citizenship by birth
+			- text
+		- citizenship by descent only
+			- text
+		- dual citizenship recognized
+			- text
+		- residency requirement for naturalization
+			- text
+	- Suffrage
+		- text
+	- Executive branch
+		- chief of state
+			- text
+		- head of government
+			- text
+		- cabinet
+			- text
+		- elections/appointments
+			- text
+		- election results
+			- text
+	- Legislative branch
+		- description
+			- text
+		- elections
+			- text
+		- election results
+			- text
+	- Judicial branch
+		- highest court
+			- text
+		- judge selection and term of office
+			- text
+		- subordinate courts
+			- text
+		- note
+			- text
+	- Politicla parties and leaders
+		- text
+		- note
+			- text
+	- Political pressure groups and leaders
+		- text
+		- other
+			- text
+	- Internation organization participation
+		- text
+	- Flag description
+		- text
+		- note
+			- text
+	- National symbol(s)
+		- text
+	- National anthem
+		- name
+			- text
+		- lyrics/music
+			- text
+		- note
+			- text
+- Economy
+	- Economy - overview
+		- text
+	- GDP (puurchasing power parity)
+		- text
+		- note
+			- text
+	- GDP (official exchange rate)
+		- text
+	- GDP - real growth rate
+		- text
+	- GDP - per capita (PPP)
+		- text
+		- note
+			- text
+	- Gross national saving
+		- text
+	- GDP - composition, by end use
+		- household consumption
+			- text
+		- government consumption
+			- text
+		- investment in fixed capital
+			- text
+		- investment in inventories
+			- text
+		- exports of goods and services
+			- text
+		- imports of goods and services
+			- text
+	- GDP - composition, by sector of origin
+		- agriculture
+			- text
+		- industry
+			- text
+		- services
+			- text
