@@ -34,13 +34,13 @@ with open('datasets/wwe/draft.csv') as csvfile:
 		random.shuffle(top)
 		random.shuffle(sec)
 		random.shuffle(newlist)
-	raw = [wc[0], sc[0], ttc[0], ttc[1]] + top[:10] + sec[:10] + newlist[:11]
-	smackdown = [wc[1], sc[1], ttc[2], ttc[3]] + top[10:20] + sec[10:20] + newlist[11:22]
-	nxt = [wc[2], esc[0], esc[1], esc[2]] + top[20:30] + sec[20:30] + newlist[22:33]
-	legends = [wc[3], sc[2], ttc[4], ttc[5]] + top[30:] + sec[30:] + newlist[33:]
+	raw = [wc[0], sc[0], ttc[0], ttc[1]] + top[:10] + sec[:10] + newlist[:12]
+	smackdown = [wc[1], sc[1], ttc[2], ttc[3]] + top[10:20] + sec[10:20] + newlist[12:24]
+	nxt = [wc[2], esc[0], esc[1], esc[2]] + top[20:30] + sec[20:30] + newlist[24:36]
+	legends = [wc[3], sc[2], ttc[4], ttc[5]] + top[30:] + sec[30:] + newlist[36:]
 	
 with open('datasets/wwe/finaldraft.csv', 'w') as csvfile:
 	writer = csv.writer(csvfile, delimiter=',')
-	for i in range(34):
+	for i in range(len(raw)):
 		writer.writerow(raw[i] + smackdown[i] + nxt[i] + legends[i])
 	print('Done')
