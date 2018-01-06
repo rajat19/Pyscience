@@ -238,6 +238,8 @@
 			- text
 		- etymology
 			- text
+	- Dependency status
+		- text
 	- Government type
 		- text
 	- Capital
@@ -359,3 +361,22 @@
 			- text
 		- services
 			- text
+	- Agriculture - products
+		- text
+	- Industries
+		- text
+	- Industrial production growth rate
+		- text
+	- Labor force
+		- text
+	- Labor force - by occupation
+		- agriculture
+			- text
+		- industry
+			- text
+		- services
+			- text
+	- Unemployment rate
+		- text
+	- Population below poverty line
+		- text
